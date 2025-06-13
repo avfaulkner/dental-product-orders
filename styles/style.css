@@ -1,0 +1,12 @@
+:root {
+  --must-font-main: -apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color:#ffffff;
+  font-family: sans-serif;
+}
